@@ -12,7 +12,7 @@ header {
 header h1 {
     font-family: "Playwrite DK Loopet", cursive;
   background-color: rgba(196, 38, 38, 0.5); /* Fondo semitransparente negro */
-  color: white;
+  color: rgb(64, 155, 22);
   padding: 20px;
   width: 100%;
   text-align: center;
